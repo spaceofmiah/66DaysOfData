@@ -5,11 +5,11 @@ I learnt about reshaping and resizing of ndarray. There are couple of ways metho
 - **np.reshape**: This changes the shape of an ndarray e.g
 
 ```python
-arr_1 = np.arange(1, 13)    # would generate a one dimensional array from 1 through 12 
+arr_1 = np.arange(1, 13)    # generate a one dimensional array from 1 through 12 
 
 # [1, 2, 3, ....., 12]
 
-arr_1.reshape(1, 1, 3, 4) # would create a view with a 2 dimensional array having 3r & 4c
+arr_1.reshape(1, 1, 3, 4) # create a view with a 2 dimensional array having 3r & 4c
 
 # [
 #   [
