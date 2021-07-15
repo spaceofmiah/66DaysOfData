@@ -9,13 +9,15 @@ arr_1 = np.arange(1, 13)    # generate a one dimensional array from 1 through 12
 
 # [1, 2, 3, ....., 12]
 
-arr_1.reshape(1, 1, 3, 4) # create a view with a 2 dimensional array having 3r & 4c
+arr_1.reshape(1, 1, 3, 4) # create a view with a 4 dimensional array having 3r & 4c
 
 # [
 #   [
+#     [
 #       [1,  2,  3,  4]
 #       [5,  6,  7,  8]
 #       [9, 10, 11, 12]
+#     ]  
 #   ]   
 # ]
 ```
