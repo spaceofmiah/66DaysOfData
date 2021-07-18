@@ -6,3 +6,7 @@ My journey into Data, this time around i really want to stay put - One thing i'l
 [Prepping for the Journey](docs/data_prepup.md) -   ⭐⭐⭐⭐⭐
 
 [Day One](docs/day_one.md)  -   ⭐⭐⭐⭐
+
+[Day Two](docs/day_two.md)  -   ⭐
+
+[Day Three](docs/day_three.md)  -   ⭐⭐
