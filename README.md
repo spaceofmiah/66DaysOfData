@@ -16,3 +16,5 @@ My journey into Data, this time around i really want to stay put - One thing i'l
 [Day Five](journey/day_five.md)  -   ⭐⭐⭐⭐⭐
 
 [Day Six](journey/day_six.md)  -   ⭐⭐⭐⭐
+
+[Day Seven](journey/day_seven.md)  -   ⭐⭐⭐
